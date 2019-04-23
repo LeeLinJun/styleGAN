@@ -1,6 +1,6 @@
 # Proposal for ECE285 project
 
-A [PDF](https://github.com/dashidhy/styleGAN/blob/master/proposal/proposal.pdf) version available.
+A [PDF](proposal/proposal.pdf) version available.
 
 
 ## Abstract
@@ -23,23 +23,23 @@ We pretrain a [DCGAN](https://arxiv.org/pdf/1511.06434.pdf) on the church-outdoo
 
 **Output from pretrained generator:**
 
-<div align=center><img src="https://github.com/dashidhy/styleGAN/raw/master/images/pretrained_gan_output.png?sanitize=true"/></div>
+<div align=center><img src="images/pretrained_gan_output.png"/></div>
 
 </b>
 
 **Target style:**
 
-<div align=center><img src="https://github.com/dashidhy/styleGAN/raw/master/images/the_scream.jpg?sanitize=true"/  width="300"></div>
+<div align=center><img src="images/the_scream.jpg?sanitize=true"/  width="300"></div>
 
 </b>
 
 **Output from enhanced generator with lower learning rate:**
 
-<div align=center><img src="https://github.com/dashidhy/styleGAN/raw/master/images/styleGAN_output.png?sanitize=true"/></div>
+<div align=center><img src="images/styleGAN_output.png?sanitize=true"/></div>
 
 </b>
 
 **Output from enhanced generator with higher learning rate:**
 
-<div align=center><img src="https://github.com/dashidhy/styleGAN/raw/master/images/styleGAN_output2.png?sanitize=true"/></div>
+<div align=center><img src="images/styleGAN_output2.png?sanitize=true"/></div>
 
